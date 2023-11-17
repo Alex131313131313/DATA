@@ -1,1 +1,2 @@
-
+#The file from the original source was in a .xls format which was unable to be read by R. We could have converted it to .xlsx but we needed to install a package on the server, which is not allowed. For this reason, we have the data file in this repository, which is outside from the rforbiodatascience23.
+# This is the link to the original file: https://hbiostat.org/data/repo/prostate.xls
